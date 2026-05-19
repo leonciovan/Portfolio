@@ -26,71 +26,9 @@
   <img src="https://img.shields.io/badge/figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
----
-
-### 🎨 UI/UX Design Projects
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🌐 Activity Web Design</h3>
-      <p>A modern and clean web design created using Figma. Focused on layout structure, visual hierarchy, and user experience.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Tool-Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
-        <img src="https://img.shields.io/badge/Type-Web%20Design-000000?style=for-the-badge" />
-      </p>
-      <a href="https://www.figma.com/design/mEiq8fSMd5aKibnrjQHdtp/ACTIVITY-WEB-DESIGN?node-id=0-1&t=Gu8DnM2EuatRs0KJ-1" target="_blank">
-        <img src="https://img.shields.io/badge/🔗%20VIEW%20FIGMA%20DESIGN-000000?style=for-the-badge&logo=figma&logoColor=white" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <h3>📐 Midterm Wireframe Design</h3>
-      <p>A structured wireframe design created as a midterm activity. Demonstrates UX thinking, component layout, and user flow planning.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Tool-Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
-        <img src="https://img.shields.io/badge/Type-Wireframe-000000?style=for-the-badge" />
-      </p>
-      <a href="https://www.figma.com/design/dImSivk8CUKgofFPHaTJfy/Van_leoncio_Midterm_Activity-2_New-Figma-Wireframe-Design.?t=Gu8DnM2EuatRs0KJ-1" target="_blank">
-        <img src="https://img.shields.io/badge/🔗%20VIEW%20FIGMA%20DESIGN-000000?style=for-the-badge&logo=figma&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>💈 Barbershop Online Booking</h3>
-      <p>A comprehensive barbershop booking platform with real-time appointment scheduling, service selection, barber profiles, and customer management dashboard.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Tool-Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
-        <img src="https://img.shields.io/badge/Type-Booking%20System-000000?style=for-the-badge" />
-      </p>
-      <a href="https://www.figma.com/design/j6PsWADHUcnCkIy5iCZBpc/Untitled?node-id=0-1&t=b0RZBt5imriCr9wV-1" target="_blank">
-        <img src="https://img.shields.io/badge/🔗%20VIEW%20FIGMA%20DESIGN-000000?style=for-the-badge&logo=figma&logoColor=white" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <h3>🚀 More Projects Coming Soon</h3>
-      <p>Stay tuned for more UI/UX and web development projects as I continue my journey towards my 2027 internship.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-In%20Progress-000000?style=for-the-badge" />
-      </p>
-    </td>
-  </tr>
-</table>
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonciovan&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=leonciovan&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonciovan&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" width="50%" />
-</p>
-
----
 
 ### 🔗 Terminal Access
 <p align="center">
